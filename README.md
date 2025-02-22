@@ -1,4 +1,4 @@
-# Autoslides
+# Roboslides 🤖
 
 Convert Markdown into an HTML slide deck!
 
@@ -33,3 +33,5 @@ If you prefer [Reveal.js](https://revealjs.com/):
 ## See Also
 
 - [Markdown-Tag](https://github.com/MarketingPipeline/Markdown-Tag)
+
+**Submitted as part of [WECE Hacks](https://wece-hacks.github.io/)**
