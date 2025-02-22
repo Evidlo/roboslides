@@ -1,5 +1,7 @@
 # Roboslides 🤖
 
+![](preview.png)
+
 Convert Markdown into an HTML slide deck!
 
 Rename your Markdown file with a `.html` extension and add this line to the bottom:
