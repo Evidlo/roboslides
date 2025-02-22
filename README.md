@@ -1,7 +1,5 @@
 # Roboslides 🤖
 
-![](preview.png)
-
 Convert Markdown into an HTML slide deck!
 
 Rename your Markdown file with a `.html` extension and add this line to the bottom:
@@ -9,6 +7,8 @@ Rename your Markdown file with a `.html` extension and add this line to the bott
 ``` html
 <script src="https://evidlo.github.io/roboslides/remark.js"></script>
 ```
+
+![](preview.png)
 
 [Live Demo](https://evidlo.github.io/roboslides/demo_remark.html)
 
