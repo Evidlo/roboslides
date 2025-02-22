@@ -8,7 +8,8 @@ Rename your Markdown file with a `.html` extension and add this line to the bott
 <script src="https://evidlo.github.io/roboslides/remark.js"></script>
 ```
 
-![](preview.png)
+![preview](https://github.com/user-attachments/assets/c2d13c6d-e752-4cde-ae22-797a56495951)
+
 
 [Live Demo](https://evidlo.github.io/roboslides/demo_remark.html)
 
