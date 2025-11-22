@@ -35,6 +35,7 @@ If you prefer [Reveal.js](https://revealjs.com/):
 
 ## See Also
 
+- [markdeep-slides](https://github.com/doersino/markdeep-slides)
 - [Markdown-Tag](https://github.com/MarketingPipeline/Markdown-Tag)
 
 **Submitted as part of [WECE Hacks](https://wece-hacks.github.io/)**
